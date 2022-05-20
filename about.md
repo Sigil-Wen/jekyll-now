@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Trying out this theme haha
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+:pog:
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Twitter: 0xSigil
+
+[wensigil@gmail.com](mailto:wensigil@gmail.com)
